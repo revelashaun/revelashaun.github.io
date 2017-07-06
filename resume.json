@@ -1,0 +1,177 @@
+{
+	"basics": {
+		"name": "Robert Shaun Dolan",
+		"label": "QA and DevOps Leader",
+		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAroAAAAJDRmODQwZDc4LWU2YWEtNGIzYS1hZTZiLWFlNTVmN2NlYjYzMw.jpg",
+		"email": "robert.shaun.dolan@gmail.com",
+		"phone": "(804) 601-0084",
+		"website": "http://realshaundolan.com",
+		"location": {
+			"summary": "Dynamic QA and DevOps leader with a track record of managing teams and workload to deliver high quality business value at scale.  Excel in defining strategic direction or vision, staying abreast with new technologies, and growing/managing teams.  Thrive building strategic partnerships with community leaders (internal and external) to rapidly deliver on opportunities.  Well-organized and detail oriented nature helps to monitor and measure efficiency, results, and cost at appropriate control gates.  Actively measure and monitor infrastructure, resource, and tooling spend to identify opportunities for cost optimization.  Influence standardization at respective CICD/quality gates with an emphasis on rapid delivery and reuse to provide strategic lift.  Fluent in a vast array of technologies to support QA and CICD.  As with any major cultural shift, I am empathetic and open to help resolve challenges with my teams as they explore Agile and CICD",
+			"address": "13317 Thornridge Lane",
+			"postalCode": "23112",
+			"city": "Richmond",
+			"countryCode": "US",
+			"region": "Virginia"
+		},
+		"profiles": [{
+			"network": "LinkedIn",
+			"username": "rsdolan",
+			"url": "https://www.linkedin.com/in/rsdolan/"
+		}]
+	},
+	"work": [{
+			"company": "Capital One Financial Corporation",
+			"position": "Site Reliability Engineering Lead",
+			"website": "http://capitalone.com",
+			"startDate": "2014-01-01",
+			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
+			"highlights": [
+				"Innovate to increase flow by helping teams shift their QA to the left in the development/release cycle",
+        "Develop strategic plans to reach DevOps maturity while maintaining regulatory compliance",
+        "Elevate \"Target Dojo\" knowledge sharing and Mobbing sessions, leading to faster adoption of CICD principles",
+        "Reduce Cloud Spend and Optimizing Cloud Server Usage",
+				"Lead team to create horizontally reusable measurements for quality, performance, security, and regulatory compliance",
+				"Measure and track opportunities and improvements (i.e defects)",
+				"Drive teams to zero downtime deployments (blue/green deployments)",
+        "Enforce a build binaries only once model with traceable code commit metadata and proper environment promotion",
+        "Mandate infrastructure as code for cloud configuration management defect traceability"
+			]
+		},
+		{
+			"company": "Allscripts Healthcare Solutions",
+			"position": "Functional Test Lead",
+			"website": "http://allscripts.com",
+			"startDate": "2013-05-01",
+			"endDate": "2014-12-31",
+			"summary": "With a vision of building open, connected communities of health.  Allscripts solutions enable smarter care, delivered with greater precision, for healthier patients, populations and communities.  With a focus on helping you succeed and serving as your trusted partner.  ",
+			"highlights": [
+				"Led on and offshore QA resources for the Payerpaths and Mainstreet products",
+				"Established well-documented best practices and reusable norms across teams for defect tracking and test case writing",
+				"Utilized Visual Studio and Microsoft Test Management (VSTS and MTM) to reduce QA risk footprint",
+				"Evangelized embedding quality assurance into the development teams",
+				"Drove the development of frameworks to enable faster QA earlier in the development cycle.",
+				"Tracked automated and manual workloads in Agile Scrum using Team Foundation Server and Microsoft Test Manager ",
+				"Optimized waterfall processes to increase team throughput and flow, shifting left for early defect remediation"
+			]
+		},
+		{
+			"company": "Capital One Financial Corporation",
+			"position": "MIS Lead Operations Analyst",
+			"website": "http://capitalone.com",
+			"startDate": "2011-11-01",
+			"endDate": "2013-04-28",
+			"summary": "Responsible for onboarding reporting processes and streamlining or automating them, giving back valuable operations analyst time.",
+			"highlights": [
+				"Reduced weekly and monthly reporting time by 90% via team coaching and increasing automation.",
+				"Empowered executive leadership with metrics to improve brand quality and delight our customers.",
+				"Led around 30 metric owners to define, automate, and deliver relative/actionable metrics within schedule.",
+				"Overhauled executive reporting on quality, compliance, and operational efficiency (across all Card Channels).",
+        "Backfilled attrition gap for DBA/BSA administering 15MM record and growing ETL process for Image Cards"
+			]
+		},
+		{
+			"company": "Hewlett-Packard Corporation",
+			"position": "Performance Testing Analyst Lead",
+			"website": "http://capitalone.com",
+			"startDate": "2008-12-18",
+			"endDate": "2011-10-28",
+			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
+			"highlights": [
+				"Saved $1.2MM per year by developing Java-based loadrunner analysis application",
+				"Vetted and negotiated additional $3 purchase of mainframe compute (2 Processors unlocked on z/OS)",
+				"Administered and maintained HP Sitescope and Loadrunner infrastructure",
+				"Horizontally serviced up to a peak of 10 performance testing engagements at a time",
+				"Identified and remediated defects that would have impacted 60+MM active users"
+
+			]
+		}
+	],
+	"volunteer": [{
+		"organization": "Habitat For Humanity",
+		"position": "Site Lead for Painting Services",
+		"website": "https://www.habitat.org/us-va/goochland/goochland-county-hfh",
+		"summary": "Painted a home for the Goochland County H4H to give back to a battle wounded veteran in need.  It was an honor to support those that risk it all to defend our freedoms."
+	}],
+	"education": [{
+			"institution": "ECPI University",
+			"area": "Information Technology Management / Network Security",
+			"studyType": "Bachelor of Applied Science",
+			"startDate": "2011-06-01",
+			"endDate": "2014-01-01",
+			"gpa": "3.94"
+		},
+		{
+			"institution": "ECPI University",
+			"area": "Information Technology / Web Development and Design",
+			"studyType": "Associate of Applied Sciences",
+			"startDate": "2005-06-01",
+			"endDate": "2007-01-01",
+			"gpa": "3.97"
+		},
+		{
+			"institution": "Virginia Commonwealth University",
+			"area": "Information Technology",
+			"studyType": "Undergraduate Information Systems Studies",
+			"startDate": "2003-08-15",
+			"endDate": "2004-05-15"
+		}
+	],
+	"awards": [{
+		"title": "Summa cum Laude",
+		"date": "2016-06-14",
+		"awarder": "ECPI University",
+		"summary": "3.94 GPA"
+	}],
+	"skills": [{
+			"name": "Quality Assurance",
+			"level": "Master",
+			"keywords": [
+				"Cost Reduction via Automation",
+				"Cost Reduction via Cloud Infrastructure Optimization",
+				"Performance",
+				"Functional",
+				"Test Case Definition and Best Practices",
+				"Selenium C#/Java",
+				"ATDD",
+				"Cucumber",
+				"Continuous Integration",
+				"Continuous Regression",
+				"Defect Tracking",
+				"Advanced system and test monitoring",
+				"Opensource and innersource culture",
+				"Comprehends developer code and can recommend defect fixes"
+			]
+		},
+		{
+			"name": "DevOps",
+			"level": "Master",
+			"keywords": [
+				"Cloud Technology",
+				"Continuous Integration",
+				"Continuous Delivery",
+				"Version Control",
+				"Branching and/or Mainline Coding Strategies",
+				"Static Code Analysis",
+				"Security Scanning",
+				"Open Source Scanning",
+				"Immutable/Auto-Provisioned Cloud Infrastructure as Code",
+				"Chef",
+				"Ansible",
+				"Jenkins",
+				"Artifact Management (Binaries and Other Dependencies)",
+				"Automated Builds",
+				"Automated Regression/Integration Testing",
+				"Performance Testing",
+				"Release Management / Release Engineering",
+				"Zero Downtime (Blue/Green) Deployments",
+				"Production System Monitoring and Logging",
+				"System Component Automatic Recovery and Scaling"
+			]
+		}
+	],
+	"references": [{
+			"name": "Available Upon Request"
+		}
+	]
+}
