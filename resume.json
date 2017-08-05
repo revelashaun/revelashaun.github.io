@@ -27,16 +27,11 @@
 			"startDate": "2014-01-01",
 			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
 			"highlights": [
-				"Develop and innersource reusable CICD pipeline frameworks",
-				"Remove blind spots with logging, service discovery, and application monitoring tools",
-        "Bring teams to 99.99% customer availability via self-healing system components and Docker",
-        "Utilize Dojos to promote faster adoption of CICD principles",
-        "Reduce cloud spend and optimizing cloud server sizing and usage",
-				"Lead teams to standardization for quality, performance, security, and regulatory compliance",
-				"Measure and track opportunities and improvements (i.e defects)",
-				"Drive teams to zero downtime deployments (blue/green or canary deployments)",
-        "Mandate infrastructure as code for cloud configuration management defect traceability",
-				"Instill an automate first culture within team"
+				"Manage infrastructure and reliability for 4 applications.",
+				"Mentor teams to reach 99.99% availability.",
+				"Lead teams to high-visibility and self-healing.",
+				"Design and implement gated CICD practices to minimize risk exposure.",
+				"Implement and maintain tools to measure system and component-level analysis."
 			]
 		},
 		{
@@ -47,13 +42,11 @@
 			"endDate": "2014-12-31",
 			"summary": "With a vision of building open, connected communities of health.  Allscripts solutions enable smarter care, delivered with greater precision, for healthier patients, populations and communities.  With a focus on helping you succeed and serving as your trusted partner.  ",
 			"highlights": [
-				"Led on and offshore tester resources for the Payerpaths and Mainstreet Clearinghouse products",
-				"Established well-documented best practices and reusable norms across teams for defect tracking and test case writing",
-				"Utilized test case management and defect tracking tools to to reduce QA risk footprint",
-				"Evangelized embedding quality assurance into the development teams",
-				"Drove the development of frameworks to enable faster QA earlier in the development cycle.",
-				"Tracked automated and manual workloads in Agile Scrum using Team Foundation Server and Microsoft Test Manager ",
-				"Optimized waterfall processes to increase team throughput and flow, shifting left for early defect remediation"
+				"Managed testing resources for the Payerpaths and Mainstreet Clearinghouse products using Agile Scrum.",
+				"Evangelized coupling quality assurance and development teams tightly.",
+				"Drove the development of frameworks and CICD practices to enable faster QA earlier in the development cycle.",
+				"Optimized waterfall processes shifting left with Acceptance Test Driven Development (ATDD).",
+				"Influenced moving to automated system testing and regression for each application build"
 			]
 		},
 		{
@@ -67,7 +60,7 @@
 				"Reduced weekly and monthly reporting time by 90% via team coaching and increasing automation.",
 				"Empowered executive leadership with metrics to improve brand quality and delight our customers.",
 				"Led around 30 metric owners to define, automate, and deliver relative/actionable metrics within schedule.",
-				"Overhauled executive reporting on quality, compliance, and operational efficiency (across all Card Channels).",
+				"Overhauled executive reporting on quality, compliance, and operational efficiency (across all US Card Channels).",
         "Backfilled attrition gap for DBA/BSA administering 15MM record and growing ETL process for Image Cards"
 			]
 		},
@@ -84,7 +77,6 @@
 				"Administered and maintained HP Sitescope and Loadrunner infrastructure",
 				"Horizontally serviced up to a peak of 10 performance testing engagements at a time",
 				"Identified and remediated defects that would have impacted 60+MM active users"
-
 			]
 		}
 	],
@@ -126,7 +118,6 @@
 	}],
 	"skills": [{
 			"name": "Quality Assurance",
-			"level": "Master",
 			"keywords": [
 				"Cost Reduction via Automation",
 				"Cost Reduction via Cloud Infrastructure Optimization",
@@ -146,7 +137,6 @@
 		},
 		{
 			"name": "Site Reliability and DevOps",
-			"level": "Master",
 			"keywords": [
 				"Appdynamics APM",
 				"Pinpoint APM",
