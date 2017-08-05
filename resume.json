@@ -1,13 +1,13 @@
 {
 	"basics": {
 		"name": "Robert Shaun Dolan",
-		"label": "QA and DevOps Leader",
-		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAroAAAAJDRmODQwZDc4LWU2YWEtNGIzYS1hZTZiLWFlNTVmN2NlYjYzMw.jpg",
+		"label": "Site Reliability, DevOps, and QA Leader",
+		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo1AAAAJGNiYTEzMzAyLWQ0NzUtNGMxZi1iMzUwLTEzNjI0NzQ1ZGZlOA.jpg",
 		"email": "robert.shaun.dolan@gmail.com",
 		"phone": "(804) 601-0084",
 		"website": "http://realshaundolan.com",
+		"summary": "Dynamic site reliability leader with a track record of managing teams and workload to deliver reliable and performant systems at scale.  Excel in defining strategic direction or vision while staying abreast of new technologies and building cohesive teams.  Thrive building strategic relationships with community leaders and peers (internal and external) to rapidly and pro-actively deliver on next-gen opportunities.  Well-organized and detail oriented nature helps to monitor and measure efficiency, results, and cost control gates.  Actively measure and monitor infrastructure, resources, and tooling spend to identify opportunities for cost optimization.  Influence standardization with an emphasis on rapid delivery and reuse to provide strategic lift.  Fluent in a vast array of technologies to support reliability engineering, CICD, and QA.  Delivery transformation specialist that uses agile as a prioritization and cultural change agent.",
 		"location": {
-			"summary": "Dynamic site reliability leader with a track record of managing teams and workload to deliver reliable and performant systems at scale.  Excel in defining strategic direction or vision while staying abreast of new technologies and building cohesive teams.  Thrive building strategic relationships with community leaders and peers (internal and external) to rapidly and pro-actively deliver on next-gen opportunities.  Well-organized and detail oriented nature helps to monitor and measure efficiency, results, and cost control gates.  Actively measure and monitor infrastructure, resource, and tooling spend to identify opportunities for cost optimization.  Influence standardization at respective CICD/quality gates with an emphasis on rapid delivery and reuse to provide strategic lift.  Fluent in a vast array of technologies to support reliability engineering, CICD, and QA.  Divers delivery transformation specialist using agile as a prioritization and cultural change agent.",
 			"address": "13317 Thornridge Lane",
 			"postalCode": "23112",
 			"city": "Richmond",
@@ -67,7 +67,7 @@
 		{
 			"company": "Hewlett-Packard Corporation",
 			"position": "Performance Testing Analyst Lead",
-			"website": "http://capitalone.com",
+			"website": "hpe.com",
 			"startDate": "2008-12-18",
 			"endDate": "2011-10-28",
 			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
