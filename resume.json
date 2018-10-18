@@ -2,17 +2,17 @@
 	"basics": {
 		"name": "Robert Shaun Dolan",
 		"label": "Site Reliability, DevOps, and QA Leader",
-		"picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAo1AAAAJGNiYTEzMzAyLWQ0NzUtNGMxZi1iMzUwLTEzNjI0NzQ1ZGZlOA.jpg",
+		"picture": "",
 		"email": "robert.shaun.dolan@gmail.com",
 		"phone": "(804) 601-0084",
 		"website": "http://realshaundolan.com",
 		"summary": "Dynamic site reliability leader with a track record of managing teams and workload to deliver reliable and performant systems at scale.  Excel in defining strategic direction or vision while staying abreast of new technologies and building cohesive teams.  Thrive building strategic relationships with community leaders and peers (internal and external) to rapidly and pro-actively deliver on next-gen opportunities.  Well-organized and detail oriented nature helps to monitor and measure efficiency, results, and cost control gates.  Actively measure and monitor infrastructure, resources, and tooling spend to identify opportunities for cost optimization.  Influence standardization with an emphasis on rapid delivery and reuse to provide strategic lift.  Fluent in a vast array of technologies to support reliability engineering, CICD, and QA.  Delivery transformation specialist that uses agile as a prioritization and cultural change agent.",
 		"location": {
-			"address": "13317 Thornridge Lane",
-			"postalCode": "23112",
-			"city": "Richmond",
+			"address": "2104 Fairway View Lane",
+			"postalCode": "75098",
+			"city": "Wylie",
 			"countryCode": "US",
-			"region": "Virginia"
+			"region": "Texas"
 		},
 		"profiles": [{
 			"network": "LinkedIn",
@@ -21,10 +21,25 @@
 		}]
 	},
 "work": [{
+				"company": "Apex Clearing Corporation",
+				"position": "Site Reliability Engineering Manager",
+				"website": "http://www.apexclearing.com",
+				"startDate": "2017-09-03",
+				"summary": "Leader in the digital wealth management space, we have the expertise and solutions you need to bring your business into the new era of digital investing.",
+				"highlights": [
+					"Lead organization-wide modernization of monitoring via service level objectives and reduce false-alerting with Prometheus and Grafana.",
+					"Manage incidents and postmortems.",
+					"Partnered with and scheduled demos with multiple vendors for application performance monitoring proof of concepts",
+					"Created python scripts to read and write to IBM MQ queues for starting 3rd party batch processing",
+					"Developed python scripts to expose IBM MQ metrics via stdout to Prometheus"
+				]
+			},
+			{
 			"company": "Capital One Financial Corporation",
 			"position": "Site Reliability Engineering Lead",
-			"website": "http://capitalone.com",
+			"website": "http://www.capitalone.com",
 			"startDate": "2014-01-01",
+			"endDate": "2017-08-31",
 			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
 			"highlights": [
 				"Manage infrastructure and reliability for 4 applications.",
@@ -37,7 +52,7 @@
 		{
 			"company": "Allscripts Healthcare Solutions",
 			"position": "Functional Test Lead",
-			"website": "http://allscripts.com",
+			"website": "http://www.allscripts.com",
 			"startDate": "2013-05-01",
 			"endDate": "2014-12-31",
 			"summary": "With a vision of building open, connected communities of health.  Allscripts solutions enable smarter care, delivered with greater precision, for healthier patients, populations and communities.  With a focus on helping you succeed and serving as your trusted partner.  ",
@@ -52,7 +67,7 @@
 		{
 			"company": "Capital One Financial Corporation",
 			"position": "MIS Lead Operations Analyst",
-			"website": "http://capitalone.com",
+			"website": "http://www.capitalone.com",
 			"startDate": "2011-11-01",
 			"endDate": "2013-04-28",
 			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
@@ -67,7 +82,7 @@
 		{
 			"company": "Hewlett-Packard Corporation",
 			"position": "Performance Testing Analyst Lead",
-			"website": "hpe.com",
+			"website": "http://www.hpe.com",
 			"startDate": "2008-12-18",
 			"endDate": "2011-10-28",
 			"summary": "Capital One is a diversified bank that offers a broad array of financial products and services to consumers, small businesses and commercial clients.  A Fortune 500 company, Capital One has one of the most widely recognized brands in America.",
@@ -80,7 +95,8 @@
 			]
 		}
 	],
-	"volunteer": [{
+	"volunteer": [
+		{
 		"organization": "Habitat For Humanity",
 		"position": "Site Lead for Painting Services",
 		"website": "https://www.habitat.org/us-va/goochland/goochland-county-hfh",
@@ -120,8 +136,8 @@
 			"name": "Quality Assurance",
 			"keywords": [
 				"Cost Reduction via Automation",
-				"Cost Reduction via Cloud Infrastructure Optimization",
-				"Performance",
+				"Cost Reduction via Cloud Infrastructure Governance and Optimization",
+				"Performance (JMeter, Quality Center)",
 				"Functional",
 				"Test Case Definition and Best Practices",
 				"Selenium C#/Java",
@@ -131,14 +147,15 @@
 				"Continuous Regression",
 				"Defect Tracking",
 				"Advanced system and test monitoring",
-				"Opensource and innersource culture",
-				"Comprehends developer code and can recommend defect fixes"
+				"Opensource and innersource culture"
 			]
 		},
 		{
 			"name": "Site Reliability and DevOps",
 			"keywords": [
 				"Appdynamics APM",
+				"New Relic APM",
+				"HP Diagnostics",
 				"Pinpoint APM",
 				"AWS Logs",
 				"Splunk",
@@ -148,6 +165,7 @@
 				"Cloud Technology",
 				"Continuous Integration",
 				"Continuous Delivery",
+				"Containerization (Docker)",
 				"Version Control",
 				"Branching and/or Mainline Coding Strategies",
 				"Static Code Analysis",
@@ -157,6 +175,7 @@
 				"Chef",
 				"Ansible",
 				"Jenkins",
+				"Team City",
 				"Artifact Management (Binaries and Other Dependencies)",
 				"Automated Builds",
 				"Automated Regression/Integration Testing",
